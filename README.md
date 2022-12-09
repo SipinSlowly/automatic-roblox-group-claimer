@@ -3,7 +3,7 @@ this uses the Roblox api to automate group ownership, this allows you to claim s
 
 usage:
 
-to use this, open your browsers developer console, paste the script and replace "GroupID Here" with the un-claimed groups ID.
+to use this, open your browsers developer console, paste the script from script.js and replace "GroupID Here" with the un-claimed groups ID.
 
 **HOW DO I GET THE GROUPS ID?**
 
