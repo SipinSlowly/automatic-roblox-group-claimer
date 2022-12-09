@@ -1,0 +1,1 @@
+let GroupID = "GROUP ID HERE"; $.ajax({ method: "POST", url: `https://groups.roblox.com/v1/groups/${GroupID}/claim-ownership`, contentType: "application/json" }).then(data => console.log(data)).fail(error => console.log(error.responseJSON.errors[0].message));
